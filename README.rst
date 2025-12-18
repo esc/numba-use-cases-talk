@@ -26,13 +26,13 @@ In this talk I will begin with a short introduction to Numba, a just-in-time,
 type-specializing, function compiler for accelerating numerically-focused
 Python. Then I will focus on how to actually count dependents, what approaches
 can be used to determine this figure, how accurate it might be and how we may
-aggregate across systems to summarize this. For example, Github lists over
-150k repositories and over 6k packages as direct dependents of Numba, but this
+aggregate across systems to summarize this. For example, Github lists over 150k
+repositories and over 6k packages as direct dependents of Numba, but this
 probably includes personal projects and forks and so this number is likely to
-be rather inflated. Conda-forge on the other hand lists 139 total children,
-which is probably a much more realistic number of mature, nontrivial
-dependent projects.  Following up, I will present some statistical analysis of the
-overall Numba ecosystem and present some insightful visualizations of these
+be rather inflated. Conda-forge on the other hand lists 139 total dependent
+projects, which is probably a much more realistic number of mature, nontrivial
+dependents.  Following up, I will present some statistical analysis of
+the overall Numba ecosystem and present some insightful visualizations of these
 statistics.
 
 Then, I will continue with an overview of the most important use-case of Numba
