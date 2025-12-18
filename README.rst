@@ -15,7 +15,7 @@ leveraged benefits are -- including some insightful statistics. I will also
 show-case multiple personal favorites of this ecosystem and highlight the merit
 and value they bring to the broader open source community. I will conclude with
 some thoughts on challenges and opportunities that come with maintaining a
-low-level library with such an impact, i.e. a significnat number of dependent
+low-level library with such an impact, i.e. a significant number of dependent
 projects.
 
 
@@ -44,7 +44,7 @@ query and access routines in the case of NumbaDuck, the fully JITted interface
 to the popular DuckDB, and finally NumbSQL, a Numba based interface to SQLite.
 
 Lastly, I will discuss the challenges and opportunities that come with
-maintaining a heavily used low-level library. Such as the need for rigurous
+maintaining a heavily used low-level library. Such as the need for rigorous
 testing and a solid release process that makes use of release candidates.
 
 Licensing
