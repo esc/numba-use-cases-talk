@@ -2,8 +2,8 @@
 Numba Use-Cases Talk
 ====================
 
-What does Numba enable? A maintainer’s journey to discover where a library is
-being used.
+What does Numba enable? A maintainer’s journey to discover where and how a
+library is being used.
 
 Summary
 =======
