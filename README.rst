@@ -60,5 +60,5 @@ Content
 
 All Content is...
 
-* Copyright 2025 Valentin Haenel <valentin@haenel.co>
+* Copyright 2025 Emergency Self-Construct <esc@zetatech.org>
 * Licensed under the terms of `Attribution-ShareAlike 3.0 Unported  (CC BY-SA 3.0)  <http://creativecommons.org/licenses/by-sa/3.0/>`_
